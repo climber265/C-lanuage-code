@@ -1,8 +1,10 @@
 #include <stdio.h>
 int main()
-{
-	int a = 27;
-	int b = 35;
-	int c = a * b;
-	printf("它们的乘积是%d\n", c);
+{   
+    int a=0;
+	int b=0;
+	puts("请输入两个整数。");
+	printf("整数1：");scanf("%d",&a);
+	printf("整数2：");scanf("%d",&b);
+	printf("它们的乘积是%d\n", a*b);
 }
