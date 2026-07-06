@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="求多个整数的和和平均值.vcxproj" Id="b53c8df5-5246-49a3-8e8c-88847e4f9737" />
+</Solution>

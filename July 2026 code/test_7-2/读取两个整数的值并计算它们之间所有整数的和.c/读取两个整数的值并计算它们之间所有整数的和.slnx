@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="读取两个整数的值并计算它们之间所有整数的和.c.vcxproj" />
+</Solution>
