@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="递增显示从0开始到输入的正整数的所有整数.vcxproj" />
+</Solution>
