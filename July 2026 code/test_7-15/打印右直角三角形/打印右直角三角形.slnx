@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="打印右直角三角形.vcxproj" Id="60c3c0ac-f5d1-425e-8420-ce666fe2381d" />
+</Solution>
